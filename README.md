@@ -3,3 +3,4 @@
 ## **[EN]** Required modules: pygame, sys, colorama, winsound ,time, random
 
 **SNEKKI** made by *SHNdev*
+## [tabbs.co/shndev](https://tabbs.co/shndev)
