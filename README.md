@@ -1,9 +1,9 @@
 # Important
 
-**SNEKKI needs this modules:**
+### SNEKKI needs this modules:
 pygame, sys, colorama, winsound, time, random
 
-**How to install modules?**
+### How to install modules?
 Open **command prompt** and type **pip install modulename**
 
 
